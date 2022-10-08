@@ -1,0 +1,4 @@
+.wrapper {
+  margin: calc(0px - 1.68rem) calc(50% - 736px/2);
+  overflow: hidden;
+}
